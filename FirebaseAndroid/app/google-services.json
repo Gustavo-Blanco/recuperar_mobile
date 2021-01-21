@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "112821616968",
+    "project_id": "fir-android-d068b",
+    "storage_bucket": "fir-android-d068b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112821616968:android:b568946ff4df9b594b337d",
+        "android_client_info": {
+          "package_name": "pe.edu.tecsup.firebaseandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112821616968-b3mtg05ei9m11h1bqbskt9fca69avrqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-fiCS4C3YbA3WXEBDyQMB1Q2OBw228gA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112821616968-b3mtg05ei9m11h1bqbskt9fca69avrqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

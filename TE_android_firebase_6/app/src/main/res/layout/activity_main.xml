@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.MainActivity"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:paddingRight="40dp"
+    android:paddingLeft="40dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/rounded_border">
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/titulo_radiacion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/titulo_radiacion"
+            android:textSize="18sp"
+            android:textAlignment="center"
+            android:paddingTop="15dp"/>
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/valor_radiacion"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/valor_radiacion"
+            android:paddingTop="30dp"
+            android:paddingBottom="40dp"
+            android:textSize="60sp"
+            android:textAlignment="center"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/rounded_border"
+        android:layout_marginTop="10dp">
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/titulo_velocidad"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:text="@string/titulo_velocidad"
+            android:textSize="18sp"
+            android:paddingTop="15dp"/>
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/valor_velocidad"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textAlignment="center"
+            android:paddingTop="30dp"
+            android:paddingBottom="40dp"
+            android:text="@string/valor_velocidad"
+            android:textSize="60sp"/>
+    </LinearLayout>
+
+
+
+</LinearLayout>

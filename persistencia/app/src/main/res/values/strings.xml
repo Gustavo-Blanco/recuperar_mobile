@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Persistencia</string>
+    <string name="nombre">Nombre</string>
+    <string name="guardar">Guardar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="apellido">apellido</string>
+    <string name="edad">edad</string>
+</resources>

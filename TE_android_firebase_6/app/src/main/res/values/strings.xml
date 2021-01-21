@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TE_android_firebase_6</string>
+    <string name="titulo_radiacion">Radiación Solar</string>
+    <string name="valor_radiacion">12</string>
+    <string name="titulo_velocidad">Velocidad del Viento</string>
+    <string name="valor_velocidad">15</string>
+
+</resources>

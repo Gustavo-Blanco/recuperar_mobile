@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "769676905615",
+    "firebase_url": "https://iottecsupgbt-default-rtdb.firebaseio.com",
+    "project_id": "iottecsupgbt",
+    "storage_bucket": "iottecsupgbt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769676905615:android:33e355a9cfb91d4e5274fa",
+        "android_client_info": {
+          "package_name": "pe.edu.tecsup.appfirebase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769676905615-vi4vle4hn8evsiftep96gtv7239gs7lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGAnwKpSJiVOQ8ls6yD1Homu66g1-hS_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769676905615-vi4vle4hn8evsiftep96gtv7239gs7lh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
